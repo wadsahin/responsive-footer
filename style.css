@@ -1,4 +1,11 @@
-.t-decoratin{
+.t-decoration{
     text-decoration: none;
+    
+}
+
+@media screen and (max-width: 576px) {
+    .row{
+        text-align: center;
+    }
     
 }
